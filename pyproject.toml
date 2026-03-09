@@ -1,0 +1,27 @@
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "choH2"
+version = "1"
+maintainers = [
+  { name="Daniel Grose", email="dan.grose@lancaster.ac.uk" },
+]
+authors = [
+  { name="Daniel Grose", email="dan.grose@lancaster.ac.uk"},
+]
+description = "A naive changepoint detection method"
+requires-python = ">=3.13.10"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: GNU General Public License v3 (GPLv3)",
+    "Operating System :: OS Independent",
+]
+dependencies = [
+    "scipy"
+]
+
+[project.urls]
+homepage = "<website URL>"
