@@ -2,4 +2,5 @@
 
 now experimenting with branching
 
-lol the conflict will be truly awful??
+
+testmerge conflicts?? solve it with an easy git diff!!
