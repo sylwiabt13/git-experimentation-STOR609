@@ -1,1 +1,3 @@
-#Git experimentation for STOR609 Course
+# Git experimentation for STOR609 Course
+
+now experimenting with branching
